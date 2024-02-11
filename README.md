@@ -21,3 +21,6 @@ Learn to use Azure ML workspace to manage the resources and assets for ML operat
 ## Prerequisites
 - Basic knowledge of Azure Machine Learning service.
 - Familiarity with Azure Portal and its navigation.
+
+## Learn More & Enrol
+https://www.udemy.com/labs/managing-an-azure-ml-workspace-using-azure-portal/overview
